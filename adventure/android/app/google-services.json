@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "195167481687",
+    "project_id": "adventure-3dc4b",
+    "storage_bucket": "adventure-3dc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195167481687:android:aa8d0542cb82216105d812",
+        "android_client_info": {
+          "package_name": "com.example.adventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195167481687-drjk9upf86np38g84gfp9itcctqffl27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiDKObtBeQ22XUMfKYf11h5gB0GZ5294"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195167481687-drjk9upf86np38g84gfp9itcctqffl27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195167481687-9a1m677i0uhplsi7gokk52t6dgejmiog.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adventure"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
