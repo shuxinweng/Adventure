@@ -16,7 +16,7 @@ Made by a group of 5: Shuxin Weng, Ying Jie Mei, Yicheng Wang, Sunqiao Lin, and 
 - **RoomCode Screen**: The room code screen shows all the rooms you have joined. Users can join an existing room or create a new one using the "+" on the bottom right of the room code screen.
 - **All Tasks Screen**: This screen is when you tap any room that you have added or created to your room code screen. This screen displays all the tasks created by users in this room, all other users can check the task detail or accept this task.
 - **New Task Screen**: This screen allows you to create a new task in the room. Users have to enter the task name and due date to create a new task in this room.
-- **Single Task Screen**: This screen shows all the task details of that task. It displays the 
+- **Single Task Screen**: This screen shows all the task details of that task. It displays the status of the task as an icon, task name, updated time, due date, and either a button to accept this task if not accepted or displays the person that accepts this task.
 
 ## Built with
 
